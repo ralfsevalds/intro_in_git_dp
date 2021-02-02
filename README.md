@@ -1,7 +1,7 @@
 # intro_in_git_dp
 
 
-# komandas
+## komandas
 ```
 git clone repozitorija-URL # Nokopē projektu no github lokāli
 
@@ -12,4 +12,8 @@ git add # sagatavo reprazororiju komaidai
 git commit -m "Paveiktais darbs" 
 
 git config user.name
+
+git push origin main 
 ```
+
+##
