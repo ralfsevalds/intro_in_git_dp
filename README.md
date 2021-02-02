@@ -15,5 +15,9 @@ git config user.name
 
 git push origin main 
 ```
-# Sodiena bija zibis 
+# Sodiena bija zaibis 
+``` 
+Sodien labi izgulējos
+[BMW](https://www.bmw.com/en/index.html)
+```
 ##
